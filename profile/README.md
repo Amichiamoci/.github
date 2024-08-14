@@ -1,3 +1,4 @@
+![Logo di Amichiamoci](./assets/logos/logo.png "Logo di Amichiamoci")
 # Amichiamoci
 Amichiamoci è un'organizzazione no-profit a scopo benefico. Ogni anno organizza tornei sportivi tra le parrocchie della Diocesi di Livorno.
 
